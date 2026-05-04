@@ -6,7 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="build/emoji-java-5.1.1.jar"/>
-	<classpathentry kind="lib" path="build/json-20240303.jar"/>
+	<classpathentry kind="lib" path="src/lib/emoji-java-5.1.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/json-20240303.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

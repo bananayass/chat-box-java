@@ -1,0 +1,3 @@
+cd SendFile\src && javac -d ..\build\classes -cp ..\src\lib\emoji-java-5.1.1.jar;..\src\lib\json-20240303.jar sendfile\server\*.java sendfile\client\*.java && cd ..\..
+java -cp SendFile\build\classes;SendFile\src;SendFile\src\lib\emoji-java-5.1.1.jar;SendFile\src\lib\json-20240303.jar sendfile.server.MainForm
+java -cp SendFile\build\classes;SendFile\src;SendFile\src\lib\emoji-java-5.1.1.jar;SendFile\src\lib\json-20240303.jar sendfile.client.LoginForm
